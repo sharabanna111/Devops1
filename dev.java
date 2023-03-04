@@ -65,7 +65,19 @@ class dev
         </plugin>
  <plugin>
           <artifactId>maven-deploy-plugin</artifactId>
+<<<<<<< Updated upstream
           <version>11111</version>
+=======
+          <version>2.8.3</version>
+        </plugin>
+ <plugin>
+          <artifactId>maven-deploy-plugin</artifactId>
+          <version>2.8.4</version>
+        </plugin>
+ <plugin>
+          <artifactId>maven-deploy-plugin</artifactId>
+          <version>2.8.5</version>
+>>>>>>> Stashed changes
         </plugin>
         <!-- site lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#site_Lifecycle -->
         <plugin>
